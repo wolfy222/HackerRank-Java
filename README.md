@@ -43,5 +43,21 @@
     Please complete the partially completed code in the editor. If your code successfully converts
     into a string  the code will print "Good job". Otherwise it will print "Wrong answer".
     
-### Question - 10  
+### Question - 10  Java Strings Introduction
+    The elements of a String are called characters. The number of characters in a String is 
+    called the length, and it can be retrieved with the String.length() method.
+    
+### Question - 11  Java Substring
+     Given a string, s, and two indices,  eand , print a substring consisting of all characters
+     in the inclusive range from  to . You'll find the String class' substring method helpful in completing this challenge.
+
+### Question - 12  Java String Reverse
+     Given a string , print Yes if it is a palindrome, print No otherwise.
+
+### Question - 13  Java Currency Formatter
+     Given a double-precision number, , denoting an amount of money, use the NumberFormat class'
+     getCurrencyInstance method to convert  into the US, Indian, Chinese, and French currency formats.
+
+
+
     

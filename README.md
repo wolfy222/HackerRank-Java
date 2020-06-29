@@ -58,8 +58,15 @@
      Given a double-precision number, , denoting an amount of money, use the NumberFormat class'
      getCurrencyInstance method to convert  into the US, Indian, Chinese, and French currency formats.
      
-### Question - 13  Java Stack
+### Question - 14  Java Stack
      Given a string, determine if it is balanced or not.
+
+### Question - 15  Java 1D Array
+    Reads an integer from stdin and saves it to a variable, , denoting some number of integers.
+    Attempts to print each element of an array of integers named .
+
+### Question - 16  Java 1D Array (Part 2)
+    
 
 
 
